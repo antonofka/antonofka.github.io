@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>206159</title>
 </head>
 <body>
-
 <h1>Pealkiri: 206159</h1>
 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
